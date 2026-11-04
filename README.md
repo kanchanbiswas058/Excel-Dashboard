@@ -54,11 +54,6 @@ Creating interactive dashboards.
 Working with Pivot Tables and Pivot Charts.
 Data visualization and storytelling.
 Presenting business insights effectively.
-📸 Dashboard Preview
-
-Add your dashboard screenshot here:
-
-!Excel Dashboard
 
 👨‍💻 Author
 
